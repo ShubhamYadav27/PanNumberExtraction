@@ -1,4 +1,4 @@
-# Pan-Number-Extraction #
+# PanNumberExtraction #
 
 ## Description : 
 Extracts the pan number from pan card and stores in an excel sheet
