@@ -591,7 +591,7 @@ Refer to the `LICENSE` file for complete licensing terms.
 
 A demonstration video is available in the repository:
 
-[`pan.mov`](./pan.mov)
+...
 
 Sample image assets are also included for understanding the project's image-processing workflow.
 
