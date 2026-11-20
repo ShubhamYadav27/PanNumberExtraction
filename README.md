@@ -4,17 +4,6 @@
 
 **An Image Processing and Optical Character Recognition (OCR) Pipeline for PAN Card Number Extraction**
 
-</p>
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
-![OCR](https://img.shields.io/badge/OCR-Tesseract-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
-</p>
-
 ## 1. Project Overview
 
 **PAN Number Extraction** is a Python-based computer vision and Optical Character Recognition (OCR) project designed to identify and extract Permanent Account Number (PAN) candidates from PAN card images.
